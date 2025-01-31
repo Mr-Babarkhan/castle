@@ -6,8 +6,8 @@ export default function DownloadPage() {
   const handleDownload = () => {
     // Create an anchor element
     const link = document.createElement('a');
-    link.href = '/Castle.apk'; // Path to your APK in public folder
-    link.download = 'Castle.apk'; // Suggested name for download
+    link.href = 'https://castleapps.co.uk/Files/CastleTV_v1.0.8_1227_10_55_official%20(1).apk'; // Path to your APK in public folder
+    link.download = 'https://castleapps.co.uk/Files/CastleTV_v1.0.8_1227_10_55_official%20(1).apk'; // Suggested name for download
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -34,7 +34,7 @@ export default function DownloadPage() {
         <div className="space-y-8 text-lg text-gray-700">
           <p>
             Do you want to use the{" "}
-            <a href="#" className="text-blue-600 hover:underline">
+            <a href="https://castleapps.co.uk/Files/CastleTV_v1.0.8_1227_10_55_official%20(1).apk" className="text-blue-600 hover:underline">
               Castle App
             </a>
             ? But worried about its downloading and installation Process? If yes then you don&apos;t have to worry about it
@@ -64,7 +64,7 @@ export default function DownloadPage() {
               <h3 className="text-xl font-bold text-gray-900 mb-2">3&gt;Install the Castle App.</h3>
               <p>
                 After allowing the unknown sources in your cell phone, just open the downloaded APK file of{" "}
-                <a href="#" className="text-blue-600 hover:underline">
+                <a href="https://castleapps.co.uk/Files/CastleTV_v1.0.8_1227_10_55_official%20(1).apk" className="text-blue-600 hover:underline">
                   Castle Apk
                 </a>{" "}
                 and here the option of Install available. You have to just click on the install button, and after 4 to 5

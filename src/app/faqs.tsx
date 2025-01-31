@@ -60,8 +60,8 @@ export default function FAQ() {
   ]
 
   return (
-    <div className="min-h-screen bg-[#1c1c1c] p-6 md:p-12 mt-32">
-      <h1 className="text-[#ff3be8] text-4xl md:text-5xl font-bold text-center mb-12">FAQ</h1>
+    <div className="min-h-screen bg-[#1c1c1c] p-6 md:p-12 mt-10">
+      <h1 className="text-white text-4xl md:text-5xl font-bold text-center mb-12">FAQ</h1>
       <div className="max-w-3xl mx-auto">
         <Accordion type="single" collapsible className="space-y-4">
           {faqs.map((faq, index) => (

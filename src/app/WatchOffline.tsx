@@ -3,7 +3,7 @@ import { Download, Wifi, WifiOff, CheckCircle2 } from "lucide-react"
 
 export default function WatchOffline() {
   return (
-    <div className="bg-gradient-to-r from-blue-900 via-purple-900 to-blue-900 py-16 w-full mt-72">
+    <div className="bg-gradient-to-r from-blue-900 via-purple-900 to-blue-900 py-16 w-full ">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-2 mb-4">

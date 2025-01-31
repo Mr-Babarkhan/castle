@@ -61,19 +61,19 @@ export default function DazzlingInterface() {
         </div>
 
         <div className="mt-12 flex flex-wrap justify-center gap-4">
-          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm">
+          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm font-bold">
             Intelligent Search
           </span>
-          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm">
+          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm font-bold">
             Easy Downloads
           </span>
-          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm">
+          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm font-bold">
             Quick Access
           </span>
-          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm">
+          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm font-bold">
             Multiple Categories
           </span>
-          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm">
+          <span className="bg-blue-900/40 px-4 py-2 rounded-full text-gray-300 text-sm font-bold">
             Regular Updates
           </span>
         </div>

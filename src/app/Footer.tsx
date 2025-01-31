@@ -26,7 +26,7 @@ export function Footer() {
         </div>
         <div className="bg-gradient-to-r from-purple-700 via-blue-600-700  to-blue-900 text-white py-4">
           <div className="text-center">
-            Copyright © Castle All rights reserved
+          Powered by ♥ilawar Lashari
           </div>
         </div>
       </footer>

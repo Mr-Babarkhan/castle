@@ -13,7 +13,7 @@ export default function DazzlingInterface() {
             </h2>
           </div>
           <p className="text-gray-300 text-lg md:text-xl leading-relaxed mx-auto max-w-4xl">
-            Experience entertainment like never before with Castle's intuitive and elegant interface. 
+            Experience entertainment like never before with Castle intuitive and elegant interface. 
             Designed for seamless navigation, our crystal-clear layout puts all your favorite content 
             at your fingertips.
           </p>

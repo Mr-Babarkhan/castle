@@ -13,7 +13,7 @@ export default function Downloadoptions() {
             </h2>
           </div>
           <p className="text-gray-300 text-lg md:text-xl leading-relaxed mx-auto max-w-4xl">
-            Customize your downloading experience with Castle's flexible and powerful download manager. 
+            Customize your downloading experience with Castle flexible and powerful download manager. 
             Choose quality, manage storage, and download content exactly how you want.
           </p>
         </div>

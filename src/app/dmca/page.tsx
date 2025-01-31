@@ -7,12 +7,12 @@ export default function DMCAPage() {
           </h1>
           
           <h2 className="text-3xl font-bold text-gray-900 mb-8">
-            DMCA Policy For Snaptube
+            DMCA Policy For Castle
           </h2>
   
           <div className="space-y-6 text-lg text-gray-700">
             <p>
-              The Digital Millennium Copyright Act ("DMCA") is designed to protect content creators from having their work stolen and published by other people on the internet.
+              The Digital Millennium Copyright Act (&quot;DMCA&quot;) is designed to protect content creators from having their work stolen and published by other people on the internet.
             </p>
   
             <p>
@@ -24,11 +24,11 @@ export default function DMCAPage() {
             </p>
   
             <p>
-              This Digital Millennium Copyright Act policy applies to the <a href="https://snaptubes.me/" className="text-blue-600 hover:underline">"https://snaptubes.me/"</a> website ("Website" or "Service") and any of its related products and services (collectively, "Services") and outlines how this Website operator ("Operator", "we", "us" or "our") addresses copyright infringement notifications and how you ("you" or "your") may submit a copyright infringement complaint.
+              This Digital Millennium Copyright Act policy applies to the <a href="https://Castles.me/" className="text-blue-600 hover:underline">&quot;https://Castles.me/&quot;</a> website (&quot;Website&quot; or &quot;Service&quot;) and any of its related products and services (collectively, &quot;Services&quot;) and outlines how this Website operator (&quot;Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) addresses copyright infringement notifications and how you (&quot;you&quot; or &quot;your&quot;) may submit a copyright infringement complaint.
             </p>
   
             <p>
-              Protection of intellectual property is of utmost importance to us and we ask our users and their authorized agents to do the same. It is our policy to expeditiously respond to clear notifications of alleged copyright infringement that comply with the United States Digital Millennium Copyright Act ("DMCA") of 1998, the text of which can be found at the U.S. Copyright Office website.
+              Protection of intellectual property is of utmost importance to us and we ask our users and their authorized agents to do the same. It is our policy to expeditiously respond to clear notifications of alleged copyright infringement that comply with the United States Digital Millennium Copyright Act (&quot;DMCA&quot;) of 1998, the text of which can be found at the U.S. Copyright Office website.
             </p>
   
             <section className="space-y-4 mt-8">
@@ -48,7 +48,7 @@ export default function DMCAPage() {
                 Notifications of infringement
               </h3>
               <p>
-                If you are a copyright owner or an agent thereof, and you believe that any material available on our Services infringes your copyrights, then you may submit a written copyright infringement notification ("Notification") using the contact details below pursuant to the DMCA. All such Notifications must comply with the DMCA requirements.
+                If you are a copyright owner or an agent thereof, and you believe that any material available on our Services infringes your copyrights, then you may submit a written copyright infringement notification (&quot;Notification&quot;) using the contact details below pursuant to the DMCA. All such Notifications must comply with the DMCA requirements.
               </p>
               <p>
                 Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, our response may include the removal or restriction of access to allegedly infringing material.
@@ -87,6 +87,6 @@ export default function DMCAPage() {
           </div>
         </main>
       </div>
-    )
+    );
   }
   

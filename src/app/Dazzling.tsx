@@ -17,10 +17,10 @@ export default function DazzlingInterface() {
         </div>
         
         <div className="flex justify-center">
-          <div className="relative w-full max-w-xs md:max-w-sm lg:max-w-[400px] aspect-[9/19]">
+          <div className="relative w-full max-w-xs md:max-w-[800px] lg:max-w-[1000px] aspect-[9/19] h-[400px] sm:h-[600px] md:h-[600px] lg:h-[800px]">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dazzling-OCS3IzUNOPQEE7wYVN0X30k3ciSulg.png"
-              alt="Snaptube interface showing social media platforms like YouTube, Facebook, Instagram and video content"
+              src="/daz1.png"
+              alt="Castle interface showing social media platforms like YouTube, Facebook, Instagram and video content"
               fill
               className="object-contain"
               priority

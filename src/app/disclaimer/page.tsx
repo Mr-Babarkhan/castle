@@ -5,28 +5,28 @@ export default function DisclaimerPage() {
           <h1 className="text-4xl font-bold text-gray-900 mb-8">Disclaimer</h1>
   
           <div className="space-y-8">
-            <h2 className="text-3xl font-bold text-gray-900">Disclaimer For Snaptubes</h2>
+            <h2 className="text-3xl font-bold text-gray-900">Disclaimer For Castles</h2>
   
             <div className="space-y-6 text-gray-700 text-lg">
               <p>
                 All information on{" "}
-                <a href="https://snaptubes.me/" className="text-blue-600 hover:underline">
-                  "https://snaptubes.me/"
+                <a href="https://Castles.me/" className="text-blue-600 hover:underline">
+                  &quot;https://Castles.me/&quot;
                 </a>{" "}
                 is provided in good faith and solely for the purpose of providing general information.
               </p>
   
               <p>
-                <span className="font-semibold">Snaptubes</span> takes no responsibility or warranties about the
+                <span className="font-semibold">Castles</span> takes no responsibility or warranties about the
                 completeness, accuracy, or reliability of this information.
               </p>
   
               <p>
-                Any action you take as a result of the information on the website Snaptubes is solely at your own risk.
+                Any action you take as a result of the information on the website Castles is solely at your own risk.
               </p>
   
               <p>
-                <span className="font-semibold">Snaptubes</span> is not responsible for any losses or damages incurred as
+                <span className="font-semibold">Castles</span> is not responsible for any losses or damages incurred as
                 a result of using our website.
               </p>
   
@@ -48,8 +48,8 @@ export default function DisclaimerPage() {
               </p>
   
               <p>
-                Before doing any business or posting any information, please read the "Privacy Policies" as well as the
-                "Terms of Service" of those sites.
+                Before doing any business or posting any information, please read the &quot;Privacy Policies&quot; as well as the
+                &quot;Terms of Service&quot; of those sites.
               </p>
             </div>
   
@@ -69,7 +69,6 @@ export default function DisclaimerPage() {
           </div>
         </main>
       </div>
-    )
+    );
   }
-  
   

@@ -67,7 +67,7 @@ export default function Page() {
 
             <div className="relative w-full h-[400px] sm:h-[500px] md:h-[600px] lg:h-[800px]">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-29%20183655-xtrnJWdUn4JNbSLcOoVY5ySu4xKuaV.png"
+                src="/heropng.png"
                 alt="Snaptube App Screenshot"
                 fill
                 className="object-contain"

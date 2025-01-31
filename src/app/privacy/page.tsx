@@ -4,16 +4,16 @@ export default function PrivacyPolicyPage() {
         <main className="max-w-4xl mx-auto px-4 py-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-6">Privacy Policy</h1>
   
-          <h2 className="text-3xl font-bold text-gray-900 mb-8">Privacy Policy For Snaptubes</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-8">Privacy Policy For Castles</h2>
   
           <div className="space-y-8 text-lg text-gray-700">
             <p>
-              At <span className="font-semibold">Snaptubes</span>, accessible from{" "}
-              <a href="https://snaptubes.me/" className="text-blue-600 hover:underline">
-                "https://snaptubes.me/"
+              At <span className="font-semibold">Castles</span>, accessible from{" "}
+              <a href="https://Castles.me/" className="text-blue-600 hover:underline">
+                &quot;https://Castles.me/&quot;
               </a>
               , one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of
-              information that is collected and recorded by <span className="font-semibold">Snaptubes</span> and how we
+              information that is collected and recorded by <span className="font-semibold">Castles</span> and how we
               use it.
             </p>
   
@@ -25,7 +25,7 @@ export default function PrivacyPolicyPage() {
             <p>
               This Privacy Policy applies only to our online activities and is valid for visitors to our website with
               regards to the information that they shared and/or collect in{" "}
-              <span className="font-semibold">Snaptubes</span>. This policy is not applicable to any information collected
+              <span className="font-semibold">Castles</span>. This policy is not applicable to any information collected
               offline or via channels other than this website.
             </p>
   
@@ -67,12 +67,12 @@ export default function PrivacyPolicyPage() {
             <section className="space-y-4">
               <h3 className="text-2xl font-bold text-gray-900">Log Files</h3>
               <p>
-                <span className="font-semibold">Snaptubes</span> follows a standard procedure of using log files. These
-                files log visitors when they visit websites. All hosting companies do this and a part of hosting services'
+                <span className="font-semibold">Castles</span> follows a standard procedure of using log files. These
+                files log visitors when they visit websites. All hosting companies do this and a part of hosting services ,
                 analytics. The information collected by log files include internet protocol (IP) addresses, browser type,
                 Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of
                 clicks. These are not linked to any information that is personally identifiable. The purpose of the
-                information is for analyzing trends, administering the site, tracking users' movement on the website, and
+                information is for analyzing trends, administering the site, tracking users&apos; movement on the website, and
                 gathering demographic information.
               </p>
             </section>
@@ -80,10 +80,10 @@ export default function PrivacyPolicyPage() {
             <section className="space-y-4">
               <h3 className="text-2xl font-bold text-gray-900">Cookies and Web Beacons</h3>
               <p>
-                Like any other website, <span className="font-semibold">Snaptubes</span> uses 'cookies'. These cookies are
+                Like any other website, <span className="font-semibold">Castles</span> uses &apos;cookies&apos;. These cookies are
                 used to store information including the preferences of visitors, and the pages on the website that the
-                visitor accessed or visited. The information is used to optimize the users experience by customizing our
-                web page content based on visitors' browser type and/or other information.
+                visitor accessed or visited. The information is used to optimize the user&apos;s experience by customizing our
+                web page content based on visitors&apos; browser type and/or other information.
               </p>
             </section>
   
@@ -107,14 +107,14 @@ export default function PrivacyPolicyPage() {
               <p>Under the CCPA, among other rights, California consumers have the right to:</p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>
-                  Request that a business that collects a consumer's personal data disclose the categories and specific
+                  Request that a business that collects a consumer&apos;s personal data disclose the categories and specific
                   pieces of personal data that a business has collected about consumers.
                 </li>
                 <li>
                   Request that a business delete any personal data about the consumer that a business has collected.
                 </li>
                 <li>
-                  Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+                  Request that a business that sells a consumer&apos;s personal data, not sell the consumer&apos;s personal data.
                 </li>
               </ul>
               <p>
@@ -156,7 +156,6 @@ export default function PrivacyPolicyPage() {
           </div>
         </main>
       </div>
-    )
+    );
   }
-  
   

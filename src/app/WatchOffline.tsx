@@ -17,9 +17,9 @@ export default function WatchOffline() {
         </div>
         
         <div className="flex justify-center">
-          <div className="relative w-full max-w-xs md:max-w-sm lg:max-w-[400px] aspect-[9/19]">
+          <div className="relative w-full max-w-xs md:max-w-sm lg:max-w-[400px]  aspect-[9/19]">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dazzling-OCS3IzUNOPQEE7wYVN0X30k3ciSulg.png"
+              src="/castle3.png"
               alt="Snaptube interface showing social media platforms like YouTube, Facebook, Instagram and video content"
               fill
               className="object-contain"

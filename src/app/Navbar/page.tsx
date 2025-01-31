@@ -14,13 +14,13 @@ function NavBar() {
         <nav className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-29%20183655-xtrnJWdUn4JNbSLcOoVY5ySu4xKuaV.png"
+              src="/castle.jpg"
               alt="Snaptube Logo"
               width={40}
               height={40}
-              className="w-10 h-10"
+              className="w-10 h-10 rounded-full"
             />
-            <span className="text-2xl font-bold text-[#333]">SNAPTUBE</span>
+            <span className="text-2xl font-bold text-[#333]">CASTLE</span>
           </div>
           
           <div className="flex items-center gap-4">

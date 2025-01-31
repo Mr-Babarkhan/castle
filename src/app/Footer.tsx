@@ -20,13 +20,13 @@ export function Footer() {
               </a>
             </nav>
             <div className="text-center text-lg">
-              Contact Us: <a href="mailto:contact@snaptubes.me" className="hover:underline">contact@snaptubes.me</a>
+              Contact Us: <a href="mailto:contact@Castles.me" className="hover:underline">contact@Castles.me</a>
             </div>
           </div>
         </div>
         <div className="bg-black text-white py-4">
           <div className="text-center">
-            Copyright © Snaptube All rights reserved
+            Copyright © Castle All rights reserved
           </div>
         </div>
       </footer>
